@@ -237,8 +237,6 @@ body {
 	background-color: #818181;
 }
 
-
-
 .p {
 	font-size: 20px;
 	margin: 95px 0 20px 376px;
@@ -252,11 +250,9 @@ body {
 	padding: 15px;
 }
 
-
 .textinput:hover {
 	border: 3px solid #7fbed5;
 }
-
 
 .textinput-1 {
 	display: inline-block;
